@@ -70,7 +70,6 @@ module Rich
     :extraPlugins => 'stylesheetparser,richfile,mediaembed,showblocks',
     :removePlugins => 'scayt,image,forms',
     :contentsCss => :default,
-    :removeDialogTabs => 'link:advanced;link:target',
     :startupOutlineBlocks => true,
     :forcePasteAsPlainText => true,
     :format_tags => 'h3;p;pre',
